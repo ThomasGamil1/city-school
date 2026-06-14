@@ -1,12 +1,3 @@
-// function Navbar() {
-//   return (
-//     <div className=" bg-black text-white p-10 ml-10">
-//       Mina Mamdouh
-//     </div>
-//   )
-// }
-
-// export default Navbar
 "use client";
 
 import Image from "next/image";
