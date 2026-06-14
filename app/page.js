@@ -18,7 +18,7 @@ export default function Home() {
 
     <h1 className="text-2xl px-2 md:text-5xl text-center py-8 ">النادى الصيفى بمدارس سيتى 2026 اشترك الآن مع أقوى الأنشطة</h1>
     
-    <div className="grid md:grid-cols-4 sm:grid-cols-2 gap-10 p-5">
+    <div className="grid md:grid-cols-4 grid-cols-2 gap-10 p-5">
       {links.map((link) => (
         <Link
           key={link.href}

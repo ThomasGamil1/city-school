@@ -7,7 +7,7 @@ import Image from "next/image";
 
 export default function Contact (){
     return(
-    <main className="p-8 flex items-center justify-around mt-3 bg-gray-800">
+    <main className="flex gap-y-3 p-8 flex-col md:flex-row items-center justify-around mt-3 bg-gray-800 ">
 
       <div className="w-full max-w-xl bg-gray-200 shadow-lg rounded-2xl p-8">
         {/* <h1 className="text-3xl font-bold mb-2"></h1> */}
